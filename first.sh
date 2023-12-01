@@ -2,7 +2,7 @@
 
 #To check what type of file,directory,inode no. of files and directory
 
-echo -e $GREEN " First method"
+echo " First method"
 
 stat /c/Users/PriyaMirdha/Practice/file*
 stat /c/Users/PriyaMirdha/Practice
